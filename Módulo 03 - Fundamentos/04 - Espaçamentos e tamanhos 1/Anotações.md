@@ -12,7 +12,7 @@ Definimos a largura e a altura com a letra inicial de cada propriedade, por exem
 ### Espaçamento por tamanho da tela
 
 - h-screen (100vh de altura)
-- h-full (tamanho total da tela)
+- h-full (100% da tela)
 
 ### Espaçamento Min e Max
 
