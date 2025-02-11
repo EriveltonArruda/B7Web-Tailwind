@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="./src/output.css" rel="stylesheet" />
+</head>
+
+<body class="bg-black">
+  <div class="w-screen h-screen p-5">
+    <div class="mt-5">
+      <h1 class="text-white font-bold text-3xl text-center">Sistema de Login</h1>
+
+      <div class="my-6">
+        <!-- label com for para quando clicar no nome, o input ser selecionado -->
+        <label for="emailField" class="block text-lg text-white mb-2">Endereço de e-mail</label>
+        <input type="email" id="emailField"
+          class="bg-gray-800 w-full text-lg rounded-md p-2 border border-gray-600 outline-yellow-500" />
+      </div>
+
+      <div class="my-6">
+        <!-- label com for para quando clicar no nome, o input ser selecionado -->
+        <label for="passwordField" class="block text-lg text-white mb-2">Senha</label>
+        <input type="password" id="passwordField"
+          class="bg-gray-800 w-full text-lg rounded-md p-2 border border-gray-600 outline-yellow-500" />
+      </div>
+
+      <div class="my-6">
+        <button
+          class="bg-yellow-500 text-white font-bold border-none p-2 w-full rounded-md cursor-pointer">Entrar</button>
+      </div>
+    </div>
+    <div>
+      <p class="text-gray-400 text-center">Não é membro? <a href="#" class="text-yellow-500 font-bold">Faça seu cadastro
+          agora</a>
+      </p>
+    </div>
+  </div>
+</body>
+
+</html>
