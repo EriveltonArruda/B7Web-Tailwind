@@ -22,3 +22,7 @@ export default {
   plugins: [],
 }
 ```
+
+### Documentação
+
+https://tailwindcss.com/docs/colors#using-a-custom-palette

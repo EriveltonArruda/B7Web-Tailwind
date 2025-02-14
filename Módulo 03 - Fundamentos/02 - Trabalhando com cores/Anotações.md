@@ -26,3 +26,7 @@ Com relação as cores nas bordas, temos a opção de colocar cores nos 4 cantos
 - b para baixo (bottom)
 
 Caso você coloque a borda de uma cor e coloque somente a parte esquerda de outra cor, toda a borda terá a cor que foi definida em border e somente o lado esquero terá outra cor.
+
+### Documentação
+
+https://tailwindcss.com/docs/colors

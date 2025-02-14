@@ -26,3 +26,7 @@ theme: {
   }
 }
 ```
+
+### Documentação
+
+https://tailwindcss.com/docs/responsive-design#container-queries

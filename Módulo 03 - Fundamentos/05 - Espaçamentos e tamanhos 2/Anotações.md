@@ -39,3 +39,8 @@ Assim como na altura e largura, o padding é representado pela sua inicial.
 
 - py-8 (eixo Y, em cima e embaixo)
 - px-8 (eixo X, lado esquero e direito)
+
+### Documentação
+
+https://tailwindcss.com/docs/margin
+https://tailwindcss.com/docs/padding

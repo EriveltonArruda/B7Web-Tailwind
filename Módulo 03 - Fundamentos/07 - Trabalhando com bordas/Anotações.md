@@ -52,3 +52,7 @@ Também podemos colocar cores para os lados da borda, por exemplo:
 Caso queira deixar sem outline:
 
 - outline-none
+
+### Documentação
+
+https://tailwindcss.com/docs/upgrade-guide#default-border-color

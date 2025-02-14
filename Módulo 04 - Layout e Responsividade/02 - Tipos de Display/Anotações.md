@@ -8,3 +8,6 @@ O conceito de display no tailwind funciona da mesma forma do css, por exemplo:
 - grid
 - hidden (esconde o elemento, nesse caso texto)
 
+### Documentação
+
+https://tailwindcss.com/docs/display

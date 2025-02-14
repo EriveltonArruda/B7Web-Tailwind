@@ -33,3 +33,7 @@ Você também pode repetir quantas vezes quiser, ou seja, se você colocou uma c
 ### Ordem das classes
 
 Lembre-se que as classes são substitutivas, então o último sempre será o predominante, então deixe pra fazer as alterações de responsividade no final da classe.
+
+### Documentação
+
+https://tailwindcss.com/docs/responsive-design

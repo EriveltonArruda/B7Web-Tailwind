@@ -20,3 +20,8 @@ Definimos a largura e a altura com a letra inicial de cada propriedade, por exem
 - min-w-sm (small, ou 384px)
 
 Também podemos definir o tamanho em px, o sm é padrão do tailwind.
+
+### Documentação
+
+https://tailwindcss.com/docs/width
+https://tailwindcss.com/docs/height

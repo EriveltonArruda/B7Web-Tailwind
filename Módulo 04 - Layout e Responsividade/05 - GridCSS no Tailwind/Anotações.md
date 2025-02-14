@@ -28,4 +28,5 @@ Caso queira mudar a linha, troque o col pelo row.
 - row-span-<number>
 
 Veja a documentação.
+
 https://tailwindcss.com/docs/display#grid
