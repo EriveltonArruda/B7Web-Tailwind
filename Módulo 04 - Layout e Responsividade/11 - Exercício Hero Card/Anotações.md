@@ -1,3 +1,7 @@
+## Exercício
+
+Esse card será de um jeito no mobile e de outro quando a tela aumentar, então trabalharemos com responsividade e flexbox.
+
 ## Dicas
 
 Sempre que for fazer algum projeto, faça item por item, não deixe a ansiedade lhe dominar.
